@@ -1,0 +1,9 @@
+2023/06/22 15:03:36 Starting the EXECUTOR REST API On SERVER  2023-06-22 15:03:36.044554858 -0400 EDT m=+0.000577027
+2023/06/22 15:03:45 Calling execute command
+2023/06/22 15:03:45 Adding Profile  1  to execution list Requested by pulliybx
+2023/06/22 15:03:46 Executing Profile  1  for username  pulliybx
+2023/06/22 15:03:46 Creating build folder  21daa655-9ae5-42c3-85bd-70764da6a946
+2023/06/22 15:03:46 Extracting artifacts from GIT for  profile#1
+2023/06/22 15:03:46 Downloaded  artifacts from GIT for profile  1
+2023/06/22 15:03:46 Id  1  Relative Path  /Testcase1/  Executable  testcase1.class
+2023/06/22 15:03:46 Id  2  Relative Path  /Testcase2/  Executable  testcase2.class

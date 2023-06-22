@@ -1,0 +1,53 @@
+2023/06/19 14:34:47 Starting the REST API Server  2023-06-19 14:34:47.92765834 -0400 EDT m=+0.000480417
+2023/06/19 14:35:43 Calling calculate sum
+2023/06/19 14:35:43 Reading body
+2023/06/19 14:35:43 strconv.Atoi: parsing "": invalid syntax
+2023/06/19 16:23:09 Starting the REST API Server  2023-06-19 16:23:09.780816735 -0400 EDT m=+0.000552392
+2023/06/19 16:23:13 Calling calculate sum
+2023/06/19 16:23:13 Reading body
+2023/06/19 16:23:13 Executing statement
+2023/06/19 16:23:13 Returning result
+2023/06/19 16:23:52 Calling calculate sum
+2023/06/19 16:23:52 Reading body
+2023/06/19 16:23:52 Executing statement
+2023/06/19 16:23:52 Returning result
+2023/06/19 16:24:17 Calling calculate sum
+2023/06/19 16:24:17 Reading body
+2023/06/19 16:24:17 Executing statement
+2023/06/19 16:24:17 Returning result
+2023/06/19 16:34:56 Starting the REST API Server  2023-06-19 16:34:56.561052662 -0400 EDT m=+0.000564804
+2023/06/19 16:35:00 Calling calculate sum
+2023/06/19 16:35:00 Reading body
+2023/06/19 16:35:00 Executing statement
+2023/06/19 16:35:00 Returning result
+2023/06/19 16:35:19 Calling calculate sum
+2023/06/19 16:35:19 Reading body
+2023/06/19 16:35:19 Executing statement
+2023/06/19 16:35:19 Returning result
+2023/06/19 16:53:51 Starting the REST API Server  2023-06-19 16:53:51.647250542 -0400 EDT m=+0.000573150
+2023/06/19 16:55:14 Calling update sum
+2023/06/19 22:32:12 Starting the REST API Server  2023-06-19 22:32:12.710010424 -0400 EDT m=+0.000564695
+2023/06/19 22:32:17 Calling update sum
+2023/06/19 22:39:30 Starting the REST API Server  2023-06-19 22:39:30.323971585 -0400 EDT m=+0.000618215
+2023/06/19 22:48:47 Starting the REST API Server  2023-06-19 22:48:47.388909046 -0400 EDT m=+0.000669270
+2023/06/19 22:49:45 Calling update sum
+2023/06/19 22:51:18 Starting the REST API Server  2023-06-19 22:51:18.346967306 -0400 EDT m=+0.000573230
+2023/06/19 22:54:26 Calling calculate sum
+2023/06/19 22:54:26 Reading body
+2023/06/19 22:54:26 Executing statement
+2023/06/19 22:54:26 Returning result
+2023/06/19 22:55:08 Calling calculate sum
+2023/06/19 22:55:08 Reading body
+2023/06/19 22:55:08 Executing statement
+2023/06/19 22:55:08 Returning result
+2023/06/19 22:55:08 Calling update sum
+2023/06/19 22:55:57 Calling calculate sum
+2023/06/19 22:55:57 Reading body
+2023/06/19 22:55:57 Executing statement
+2023/06/19 22:55:57 Returning result
+2023/06/19 22:56:21 Calling update sum
+2023/06/19 23:01:10 Calling calculate sum
+2023/06/19 23:01:10 Reading body
+2023/06/19 23:01:10 Executing statement
+2023/06/19 23:01:10 Returning result
+2023/06/19 23:04:04 Calling update sum
